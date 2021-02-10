@@ -1,6 +1,6 @@
 # Time Series Homework
 ## In this assingment, I am using the tools we have learned about in class to predict future movements in the value of the Japanese yen versus the U.S. dollar.
-## The time series analysis notebook uses the analysis to answer three questions. My answers, based on the analysis, are also included below: 
+The time series analysis notebook uses the analysis to answer three questions. My answers, based on the analysis, are also included below: 
 > Based on your time series analysis, would you buy the yen now?
 >> Yes, since it is predicted to go up based on my Five Day Future Price Forecast Plot.
 
